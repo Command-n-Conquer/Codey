@@ -15,15 +15,6 @@
   ],
   "history": [
     {
-      "timestamp": "2025-12-24T06:20:42.253549+00:00",
-      "daily_commits": 0,
-      "daily_prs": 0,
-      "health": 33.333333333333336,
-      "mood": "grinding",
-      "streak": 0,
-      "tier": "noob"
-    },
-    {
       "timestamp": "2025-12-25T06:20:22.354557+00:00",
       "daily_commits": 0,
       "daily_prs": 0,
@@ -283,11 +274,20 @@
       "mood": "grinding",
       "streak": 0,
       "tier": "noob"
+    },
+    {
+      "timestamp": "2026-01-23T06:21:51.015550+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.333333333333336,
+      "mood": "grinding",
+      "streak": 0,
+      "tier": "noob"
     }
   ],
   "brutal_stats": {
     "tier": "noob",
-    "github_years": 0.8870636550308009,
+    "github_years": 0.8898015058179329,
     "social_score": 0.625,
     "social_penalties": [
       "quality_curator",
@@ -308,5 +308,5 @@
     "can_prestige": false,
     "prestige_missing": "Need Level 10"
   },
-  "last_update": "2026-01-22T06:21:42.295078+00:00"
+  "last_update": "2026-01-23T06:21:51.015550+00:00"
 }
