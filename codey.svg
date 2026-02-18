@@ -14,7 +14,7 @@
   <g transform="translate(0, 84)">
     <circle cx="120" cy="150" r="57.5" fill="#21262d"
             stroke="#22c55e" stroke-width="3"/>
-    <text x="120" y="176" text-anchor="middle" font-size="65">🐲</text>
+    <text x="120" y="176" text-anchor="middle" font-size="65">🐍</text>
     <circle cx="120" cy="225" r="25" fill="#21262d"
             stroke="#30363d" stroke-width="1"/>
     <text x="120" y="230" text-anchor="middle" font-size="25">
@@ -54,9 +54,9 @@
     <rect x="0" y="165"   width="103.125" height="12" fill="#22c55e" rx="6"/>
 
     <text x="0" y="195"   fill="#f0f6fc" font-weight="bold" font-size="14">💎 Quality</text>
-    <text x="330" y="195" fill="#8b949e" font-size="12" text-anchor="end">0.50</text>
+    <text x="330" y="195" fill="#8b949e" font-size="12" text-anchor="end">0.75</text>
     <rect x="0" y="200"   width="330" height="12" fill="#21262d" rx="6"/>
-    <rect x="0" y="200"   width="164.99999999999997" height="12" fill="#a855f7" rx="6"/>
+    <rect x="0" y="200"   width="247.5" height="12" fill="#a855f7" rx="6"/>
   </g>
 
   <!-- Footer -->
@@ -77,6 +77,6 @@
   </g>
   <text x="315" y="438" text-anchor="middle"
         fill="#8b949e" font-size="12">
-    Last Update: 2026-02-17 06:46 UTC • Dominant: unknown
+    Last Update: 2026-02-18 06:51 UTC • Dominant: Python
   </text>
 </svg>
